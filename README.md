@@ -1,3 +1,4 @@
 # TestProjectOne
 Test Project
-Not Defteri �zerinden ilk de�i�iklik!
+Not Defteri Üzerinden ilk değişiklik!
+Visual Studio Code üzerinden ikinci değişiklik!
